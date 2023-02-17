@@ -1,8 +1,8 @@
 ![Halon MTA](https://github.com/halon-extras/.github/blob/main/profile/github-readme.jpg) 
 
-## Halon MTA
+## Halon
 
-Halon MTA is a flexible, modern and DevOps-friendly MTA and email infrastructure development platform. 
+Halon is a flexible, modern and DevOps-friendly email infrastructure development platform and MTA. 
 It makes you more competitive, by secure and timely delivery of important emails and rapid feature implementation.
 At the same time, you will cut your development and maintenance costs by half. 
 
